@@ -3,7 +3,7 @@
 ## 🧑‍💻 Обо мне
 
 Студент 4 курса ЮФУ, направление «Фундаментальная информатика и информационные технологии».  
-Интересуюсь машинным обучением и фронтенд-разработкой.
+Интересуюсь машинным обучением и фронтенд-разработкой. Ищу стажировку / junior-позицию
 
 ---
 
@@ -26,6 +26,12 @@
 | [**slozhno-sosredotochitsya-ad**](https://github.com/rypunov/slozhno-sosredotochitsya-ad) | Адаптивный сайт с двумя цветовыми темами |
 | [**zakrivayuschiy-teg-ad**](https://github.com/rypunov/zakrivayuschiy-teg-ad) | Личный блог-воспоминание |
 | [**posmotri-v-okno-ad**](https://github.com/rypunov/posmotri-v-okno-ad) | Видеопоиск по городам с фильтрацией времени суток |
+
+### 🎮 Game Dev
+
+| Проект | Описание |
+|--------|----------|
+| [**WAVE-TIME-MASS**](https://github.com/scripaaa/WAVE-TIME-MASS) | 2D-платформер с перемещением между прошлым, настоящим и будущим |
 
 ---
 
