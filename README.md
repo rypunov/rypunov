@@ -15,6 +15,7 @@
 |--------|----------|
 | [**image-colorization-ml**](https://github.com/rypunov/image-colorization-ml) | Нейросетевая колоризация ч/б фото. ResNet-U-Net, Lab, Perceptual Loss |
 | [**nyc-taxi-trip-duration-prediction**](https://github.com/rypunov/nyc-taxi-trip-duration-prediction) | Предсказание времени поездки в NYC. Регрессия, геоданные |
+| [**olympiad-analysis**](https://github.com/rypunov/olympiad-analysis) | Анализ результатов онлайн-олимпиады: очистка данных, EDA, региональные PDF-отчёты, бизнес-выводы |
 | [**ml-projects**](https://github.com/rypunov/ml-projects) | Сборник учебных ML-проектов (классификация, регрессия, NLP, кластеризация, нейросети) |
 
 ### 🎨 Frontend
@@ -37,11 +38,11 @@
 
 ## 🛠 Технологии
 
-**ML/AI:** Python, Pandas, Scikit-learn, PyTorch, TensorFlow/Keras, OpenCV
+**ML/AI:** Python, Pandas, Seaborn, Scikit-learn, PyTorch, TensorFlow/Keras, OpenCV
 
 **Frontend:** HTML5, CSS3, JavaScript, Vite, REST API
 
-**Tools:** Git, Jupyter Notebook, Google Colab, Figma
+**Tools:** Git, Jupyter Notebook, Google Colab, Figma, WeasyPrint
 
 ---
 
